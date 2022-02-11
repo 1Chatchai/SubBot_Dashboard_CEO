@@ -17,3 +17,7 @@ SubBot Projects Dashboard for CEO. (SubBot Projects : SubBot V12 Full Solution)
 เครื่อง 07 ใช้เมลล์ 1-17   จำกัด 17 คัน เซิร์ฟเวอร์ทดลอง
 
 #ระวังเมลล์จะชนกัน!#
+
+เมลล์ติดล็อค
+Sumeth1548.meth@gmail.com
+Sumeth129
