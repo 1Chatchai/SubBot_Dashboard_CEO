@@ -1,4 +1,4 @@
-SubBot Projects Dashboard for CEO. (SubBot Projects : SubBot V12 Full Solution)
+SubBot Projects Dashboard for CEO. (SubBot Projects : SubBot V14 Full Solution)
 
   หน้าเมนูบริหารจัดการการลงคิวของบอทออโต้ สำหรับ CEO
 
