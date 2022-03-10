@@ -17,6 +17,7 @@ SubBot Projects Dashboard for CEO. (SubBot Projects : SubBot V14 Full Solution)
 
 เครื่อง 08 ใช้เมลล์ 1-20   จำกัด 20 คัน เซิร์ฟทดสอบ+รันรอบ 21.00
 
-⛔⛔⛔เครื่อง 09 ใช้เป็นเครื่องทดสอบฟีเจอร์ใหม่ (Debugger MC)⛔⛔⛔
+เครื่อง 09
+เครื่อง 10
 
 #ระวังเมลล์จะชนกัน!#
