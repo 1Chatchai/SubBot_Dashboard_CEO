@@ -4,7 +4,7 @@ SubBot Projects Dashboard for CEO. (SubBot Projects : SubBot V14 Full Solution)
 
 *****ข้อควรระวัง******
 
-เมลล์ในระบบ = 70 เมลล์
+เมลล์ในระบบ = 30 เมลล์
 
 ⛔⛔⛔ระงับการใช้งานชั่วคราว!!!⛔⛔⛔
 
