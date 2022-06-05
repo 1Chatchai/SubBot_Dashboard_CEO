@@ -10,6 +10,7 @@ SubBot Projects Dashboard for CEO. (SubBot Projects : SubBot V14 Full Solution)
 
 เครื่อง 01
 - เฟส A1 ใช้รัน WHA UPC ใช้เมลล์ 1-30
+- เฟส B1 ใช้รัน KPLC2 UPC ใช้เมลล์ 1-30
 
 เครื่อง 02 ใช้เมลล์ 1-55  รันบอท=45 , รันบอทสำรอง=10 เซิร์ฟเวอร์ KBLC1
 
